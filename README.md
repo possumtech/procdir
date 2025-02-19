@@ -1,6 +1,6 @@
 # procdir
 
-Retrieve postgresql stored procedures from a dedicated directory. Instead of mixing your SQL code in with your Javascript or Typescript code, create a `sql/` folder in your project that contains one or more `example.sql` files which the `procdir` module reads and compiles when instantiated.
+Retrieve PostgreSQL stored procedures from a dedicated directory. Instead of mixing your SQL code in with your Javascript or Typescript code, create a `sql/` folder in your project that contains one or more `example.sql` files which the `procdir` module reads and compiles when instantiated.
 
 Features:
 
@@ -58,7 +58,7 @@ Then we create a file and add a stored procedure definition to it.
 ## Built With
 
 * [Node](https://nodejs.org/) - The server-side JS environment
-* [PostgreSql](https://www.postgresql.org/) - The PostgreSQL server
+* [PostgreSQL](https://www.postgresql.org/) - The PostgreSQL server
 * [pg](https://www.npmjs.com/package/pg) - A PostgreSQL client for Node
 
 ## Contributing

@@ -1,0 +1,20 @@
+{
+  "name": "procdir",
+  "version": "0.1.0",
+  "description": "Retrieve PostgreSQL stored procedures from a dedicated directory",
+  "main": "procdir.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/possumtech/procdir.git"
+  },
+  "keywords": [
+    "PostgreSQL"
+  ],
+  "author": "@wikitopian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/possumtech/procdir/issues"
+  },
+  "homepage": "https://github.com/possumtech/procdir#readme"
+}
