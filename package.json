@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/possumtech/procdir/issues"
   },
-  "homepage": "https://github.com/possumtech/procdir#readme"
+  "homepage": "https://github.com/possumtech/procdir#readme",
+  "dependencies": {
+    "pg": "^8"
+  }
 }
