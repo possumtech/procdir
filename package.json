@@ -1,6 +1,6 @@
 {
   "name": "procdir",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Retrieve PostgreSQL stored procedures from a dedicated directory",
   "main": "procdir.js",
   "type": "module",
@@ -16,8 +16,5 @@
   "bugs": {
     "url": "https://github.com/possumtech/procdir/issues"
   },
-  "homepage": "https://github.com/possumtech/procdir#readme",
-  "dependencies": {
-    "pg": "^8"
-  }
+  "homepage": "https://github.com/possumtech/procdir#readme"
 }
